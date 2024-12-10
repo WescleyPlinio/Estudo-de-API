@@ -1,1 +1,1 @@
-# Este é o repositório para meu estudo de intrpdução à APIs.
+# Este é o repositório para meu estudo de introdução à APIs.
